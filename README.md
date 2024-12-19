@@ -36,10 +36,16 @@
 1. Установите поддержку **LUKS**.
 2. Создайте небольшой раздел, например, 100 Мб.
 3. Зашифруйте созданный раздел с помощью LUKS.
+4. 
 Скриншот 1
+
 ![scr1](https://github.com/Toazter426/host-hw/blob/main/img/lusk1.png)
+
 Скриншот 2
+
 ![scr2](https://github.com/Toazter426/host-hw/blob/main/img/lusk2.png)
+
 Скриншот 3
+
 ![scr3](https://github.com/Toazter426/host-hw/blob/main/img/lusk3.png)
 
